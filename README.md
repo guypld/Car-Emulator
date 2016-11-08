@@ -1,6 +1,6 @@
 # Car-Emulator (C#)
 
-### Simple Cars Emulator (IRobot like) - Recieve locations &amp; Send commands
+### Simple Cars Emulator (IRobot like) - Receive locations &amp; Send commands
 
 ![carsEmu.png](https://s22.postimg.org/k6ghujmjl/cars_Emu.png)
 
@@ -12,7 +12,7 @@ Move Car: 		Press '1' and Keyboard Arraows to move Car #1
 
 ### Get Cars Location
 
-Recieve each car location by UDP.
+Receive each car location by UDP.
 
 Format:
 
