@@ -1,0 +1,42 @@
+﻿<Window x:Class="CarEmu.MovingCharacter"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Cars Emulator 0.4 (GP)" Height="480" Width="640"
+        PreviewKeyDown="Window_PreviewKeyDown"
+        Loaded="Window_Loaded"
+        PreviewKeyUp="Window_PreviewKeyUp" Closed="Window_Closed" 
+        Topmost="False">
+    <DockPanel>
+        <!--<GroupBox Header="Movement Speed" DockPanel.Dock="Top">
+            <Slider Value="{Binding MovementSpeed}" Maximum="10" Minimum="1"/>
+        </GroupBox>
+        <GroupBox Header="Rotation Speed" DockPanel.Dock="Top">
+            <Slider Value="{Binding RotationSpeed}" Maximum="10" Minimum="1"/>
+        </GroupBox>
+        <TextBlock DockPanel.Dock="Top">
+            <Run>Use Left and Right arrow keys to rotate.</Run>
+            <LineBreak/>
+            <Run>Use Up arrow key to move forward.</Run>
+        </TextBlock>-->
+        <Canvas Background="Black" MouseDown="Canvas_MouseDown" Name="MainCanvas">
+
+            <StackPanel Orientation="Horizontal">
+                <Button Content="RESET" Click="Reset_Clicked" />
+                <Label Name="lbl" Content="Hello" Foreground="White" Background="Transparent" />
+                
+            </StackPanel>
+
+            <Label Foreground="Red" Margin="0 30 0 0" Content="{Binding MsgContent}" />
+
+            <Path Name="CarObject" Data="M50,0.5 L99,50.5 L0,50.5 z" Fill="Blue" Stretch="Fill" Stroke="Black"
+        			RenderTransformOrigin="0.5,0.5" Width="41" Visibility="Hidden">
+                    <Path.RenderTransform>
+                        <RotateTransform Angle="{Binding Angle}"/>
+                    </Path.RenderTransform>
+                </Path>
+            
+            
+            
+        </Canvas>
+    </DockPanel>
+</Window>

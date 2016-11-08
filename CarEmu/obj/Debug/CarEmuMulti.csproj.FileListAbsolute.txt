@@ -1,0 +1,26 @@
+C:\Users\Guy\Documents\Visual Studio 2013\Projects\CarEmuMulti\CarEmu\bin\Debug\CarEmu.exe.config
+C:\Users\Guy\Documents\Visual Studio 2013\Projects\CarEmuMulti\CarEmu\obj\Debug\CarEmu.exe
+C:\Users\Guy\Documents\Visual Studio 2013\Projects\CarEmuMulti\CarEmu\obj\Debug\CarEmu.pdb
+C:\Users\Guy\Documents\Visual Studio 2013\Projects\CarEmuMulti\CarEmu\bin\Debug\CarEmu.exe
+C:\Users\Guy\Documents\Visual Studio 2013\Projects\CarEmuMulti\CarEmu\bin\Debug\CarEmu.pdb
+C:\Users\Guy\Documents\Visual Studio 2013\Projects\CarEmuMulti\CarEmu\obj\Debug\CarEmuMulti.csprojResolveAssemblyReference.cache
+C:\Users\Guy\Documents\Visual Studio 2013\Projects\CarEmuMulti\CarEmu\obj\Debug\MainWindow.baml
+C:\Users\Guy\Documents\Visual Studio 2013\Projects\CarEmuMulti\CarEmu\obj\Debug\MainWindow.g.cs
+C:\Users\Guy\Documents\Visual Studio 2013\Projects\CarEmuMulti\CarEmu\obj\Debug\App.g.cs
+C:\Users\Guy\Documents\Visual Studio 2013\Projects\CarEmuMulti\CarEmu\obj\Debug\CarEmu_MarkupCompile.cache
+C:\Users\Guy\Documents\Visual Studio 2013\Projects\CarEmuMulti\CarEmu\obj\Debug\CarEmu.g.resources
+C:\Users\Guy\Documents\Visual Studio 2013\Projects\CarEmuMulti\CarEmu\obj\Debug\CarEmu.Properties.Resources.resources
+C:\Users\Guy\Documents\Visual Studio 2013\Projects\CarEmuMulti\CarEmu\obj\Debug\CarEmuMulti.csproj.GenerateResource.Cache
+E:\TEMP\CarEmuGit\trunk\CarEmu\bin\Debug\CarEmu.exe.config
+E:\TEMP\CarEmuGit\trunk\CarEmu\obj\Debug\CarEmu.exe
+E:\TEMP\CarEmuGit\trunk\CarEmu\obj\Debug\CarEmu.pdb
+E:\TEMP\CarEmuGit\trunk\CarEmu\bin\Debug\CarEmu.exe
+E:\TEMP\CarEmuGit\trunk\CarEmu\bin\Debug\CarEmu.pdb
+E:\TEMP\CarEmuGit\trunk\CarEmu\obj\Debug\CarEmuMulti.csprojResolveAssemblyReference.cache
+E:\TEMP\CarEmuGit\trunk\CarEmu\obj\Debug\MainWindow.baml
+E:\TEMP\CarEmuGit\trunk\CarEmu\obj\Debug\MainWindow.g.cs
+E:\TEMP\CarEmuGit\trunk\CarEmu\obj\Debug\App.g.cs
+E:\TEMP\CarEmuGit\trunk\CarEmu\obj\Debug\CarEmu_MarkupCompile.cache
+E:\TEMP\CarEmuGit\trunk\CarEmu\obj\Debug\CarEmu.g.resources
+E:\TEMP\CarEmuGit\trunk\CarEmu\obj\Debug\CarEmu.Properties.Resources.resources
+E:\TEMP\CarEmuGit\trunk\CarEmu\obj\Debug\CarEmuMulti.csproj.GenerateResource.Cache

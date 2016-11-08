@@ -1,0 +1,16 @@
+c:\users\guy\documents\visual studio 2013\Projects\CarEmu\CarEmu\bin\Debug\CarEmu.exe.config
+c:\users\guy\documents\visual studio 2013\Projects\CarEmu\CarEmu\obj\Debug\CarEmu.csprojResolveAssemblyReference.cache
+c:\users\guy\documents\visual studio 2013\Projects\CarEmu\CarEmu\obj\Debug\MainWindow.baml
+c:\users\guy\documents\visual studio 2013\Projects\CarEmu\CarEmu\obj\Debug\MainWindow.g.cs
+c:\users\guy\documents\visual studio 2013\Projects\CarEmu\CarEmu\obj\Debug\App.g.cs
+c:\users\guy\documents\visual studio 2013\Projects\CarEmu\CarEmu\obj\Debug\CarEmu_MarkupCompile.cache
+c:\users\guy\documents\visual studio 2013\Projects\CarEmu\CarEmu\obj\Debug\CarEmu.g.resources
+c:\users\guy\documents\visual studio 2013\Projects\CarEmu\CarEmu\obj\Debug\CarEmu.Properties.Resources.resources
+c:\users\guy\documents\visual studio 2013\Projects\CarEmu\CarEmu\obj\Debug\CarEmu.csproj.GenerateResource.Cache
+c:\users\guy\documents\visual studio 2013\Projects\CarEmu\CarEmu\bin\Debug\CarEmu.exe
+c:\users\guy\documents\visual studio 2013\Projects\CarEmu\CarEmu\bin\Debug\CarEmu.pdb
+c:\users\guy\documents\visual studio 2013\Projects\CarEmu\CarEmu\obj\Debug\CarEmu.exe
+c:\users\guy\documents\visual studio 2013\Projects\CarEmu\CarEmu\obj\Debug\CarEmu.pdb
+C:\Users\Guy\Documents\Visual Studio 2013\Projects\CarEmuMulti\CarEmu\bin\Debug\CarEmu.exe.config
+C:\Users\Guy\Documents\Visual Studio 2013\Projects\CarEmuMulti\CarEmu\obj\Debug\CarEmu.exe
+C:\Users\Guy\Documents\Visual Studio 2013\Projects\CarEmuMulti\CarEmu\obj\Debug\CarEmu.pdb
