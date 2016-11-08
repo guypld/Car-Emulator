@@ -16,7 +16,7 @@ Recieve each car location by UDP.
 
 Format:
 
-    'x1, y1, angle1 | x_2, y2, angle2 |'
+    x1, y1, angle1 | x_2, y2, angle2 |
 
 ### Send Commands
 
@@ -24,7 +24,7 @@ Send command to each car (also UDP).
 
 Format:
 
-    'angle=359 | angle=4 | f=1|'    #Rotate car #1 to angle 359, and cmmand car #3 to move forward
+    angle=359 | angle=4 | f=1|    #Rotate car #1 to angle 359, and cmmand car #3 to move forward
 
 
 
