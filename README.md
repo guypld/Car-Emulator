@@ -2,7 +2,7 @@
 
 ### Simple Cars Emulator (IRobot like) - Receive locations &amp; Send commands
 
-![carsEmu.png](https://s22.postimg.org/k6ghujmjl/cars_Emu.png)
+![carsEmu.png](https://github.com/guypld/Car-Emulator/blob/master/carsEmu.png)
 
 ### Basic Operations
 
